@@ -2,3 +2,4 @@ pyrogram
 configparser 
 python-telegram-bot 
 telethon
+requests
